@@ -4,32 +4,24 @@
 \contentsline {chapter}{\numberline {2}Equipe Proponente}{4}{chapter.2}
 \contentsline {chapter}{\numberline {3}Rela\IeC {\c c}\IeC {\~a}o dos parceiros envolvidos (quando for o caso)}{5}{chapter.3}
 \contentsline {chapter}{\numberline {4}Descri\IeC {\c c}\IeC {\~a}o do contexto social e educacional}{6}{chapter.4}
-\contentsline {section}{\numberline {4.1}Nome da Institui\IeC {\c c}\IeC {\~a}o que o curso ser\IeC {\'a} ministrado}{6}{section.4.1}
-\contentsline {section}{\numberline {4.2}Hist\IeC {\'o}rico da Institui\IeC {\c c}\IeC {\~a}o}{6}{section.4.2}
-\contentsline {section}{\numberline {4.3}Miss\IeC {\~a}o da institui\IeC {\c c}\IeC {\~a}o}{6}{section.4.3}
-\contentsline {section}{\numberline {4.4}Estrutura organizacional e de gest\IeC {\~a}o}{6}{section.4.4}
-\contentsline {section}{\numberline {4.5}P\IeC {\'u}blico-alvo atendido pela institui\IeC {\c c}\IeC {\~a}o }{6}{section.4.5}
-\contentsline {section}{\numberline {4.6}Diretrizes pedag\IeC {\'o}gicas da institui\IeC {\c c}\IeC {\~a}o}{6}{section.4.6}
-\contentsline {section}{\numberline {4.7}Perfil da demanda social e do p\IeC {\'u}blico-alvo}{6}{section.4.7}
-\contentsline {chapter}{\numberline {5}Plano pedag\IeC {\'o}gico de curso}{7}{chapter.5}
-\contentsline {section}{\numberline {5.1}Justificativa da proposta}{7}{section.5.1}
-\contentsline {section}{\numberline {5.2}P\IeC {\'u}blico-alvo do curso}{7}{section.5.2}
-\contentsline {section}{\numberline {5.3}Inser\IeC {\c c}\IeC {\~a}o social do egresso}{7}{section.5.3}
-\contentsline {section}{\numberline {5.4}Princ\IeC {\'\i }pios e diretrizes gerais pedag\IeC {\'o}gicas do curso}{7}{section.5.4}
-\contentsline {section}{\numberline {5.5}Objetivos educacionais}{7}{section.5.5}
-\contentsline {section}{\numberline {5.6}Objetivos de aprendizagem}{7}{section.5.6}
-\contentsline {section}{\numberline {5.7}Delimita\IeC {\c c}\IeC {\~a}o de conhecimentos e saberes (cognitivo, afetivo, psicomotor e de rela\IeC {\c c}\IeC {\~a}o social)}{7}{section.5.7}
-\contentsline {section}{\numberline {5.8}Mapa de conceitos do dom\IeC {\'\i }nio cognitivo}{7}{section.5.8}
-\contentsline {section}{\numberline {5.9}Conte\IeC {\'u}do program\IeC {\'a}tico}{7}{section.5.9}
-\contentsline {section}{\numberline {5.10}Metodologia e estrat\IeC {\'e}gias pedag\IeC {\'o}gicas}{8}{section.5.10}
-\contentsline {section}{\numberline {5.11}Plano de a\IeC {\c c}\IeC {\~a}o de produ\IeC {\c c}\IeC {\~a}o e oferta}{8}{section.5.11}
-\contentsline {section}{\numberline {5.12}Cronograma de produ\IeC {\c c}\IeC {\~a}o e oferta}{8}{section.5.12}
-\contentsline {section}{\numberline {5.13}Infraestrutura de apoio}{8}{section.5.13}
-\contentsline {subsection}{\numberline {5.13.1}Infraestrutura f\IeC {\'\i }sica}{8}{subsection.5.13.1}
-\contentsline {subsection}{\numberline {5.13.2}Infraestrutura tecnol\IeC {\'o}gica}{8}{subsection.5.13.2}
-\contentsline {subsection}{\numberline {5.13.3}Infraestrutura de gest\IeC {\~a}o}{8}{subsection.5.13.3}
-\contentsline {section}{\numberline {5.14}Equipe docente}{8}{section.5.14}
-\contentsline {section}{\numberline {5.15}Gest\IeC {\~a}o e apoio pedag\IeC {\'o}gico}{8}{section.5.15}
-\contentsline {section}{\numberline {5.16}Intera\IeC {\c c}\IeC {\~a}o e Comunica\IeC {\c c}\IeC {\~a}o}{8}{section.5.16}
-\contentsline {section}{\numberline {5.17}Recursos educacionais}{8}{section.5.17}
-\contentsline {section}{\numberline {5.18}Estrat\IeC {\'e}gias de avalia\IeC {\c c}\IeC {\~a}o}{8}{section.5.18}
+\contentsline {chapter}{\numberline {5}Plano pedag\IeC {\'o}gico de curso}{8}{chapter.5}
+\contentsline {section}{\numberline {5.1}Justificativa da proposta}{8}{section.5.1}
+\contentsline {section}{\numberline {5.2}P\IeC {\'u}blico-alvo do curso}{8}{section.5.2}
+\contentsline {section}{\numberline {5.3}Inser\IeC {\c c}\IeC {\~a}o social do egresso}{8}{section.5.3}
+\contentsline {section}{\numberline {5.4}Princ\IeC {\'\i }pios e diretrizes gerais pedag\IeC {\'o}gicas do curso}{8}{section.5.4}
+\contentsline {section}{\numberline {5.5}Objetivos educacionais e de aprendizagem}{8}{section.5.5}
+\contentsline {section}{\numberline {5.6}Delimita\IeC {\c c}\IeC {\~a}o de conhecimentos e saberes (cognitivo, afetivo, psicomotor e de rela\IeC {\c c}\IeC {\~a}o social)}{9}{section.5.6}
+\contentsline {section}{\numberline {5.7}Mapa de conceitos do dom\IeC {\'\i }nio cognitivo}{9}{section.5.7}
+\contentsline {section}{\numberline {5.8}Conte\IeC {\'u}do program\IeC {\'a}tico}{9}{section.5.8}
+\contentsline {section}{\numberline {5.9}Metodologia e estrat\IeC {\'e}gias pedag\IeC {\'o}gicas}{10}{section.5.9}
+\contentsline {section}{\numberline {5.10}Plano de a\IeC {\c c}\IeC {\~a}o de produ\IeC {\c c}\IeC {\~a}o e oferta}{10}{section.5.10}
+\contentsline {section}{\numberline {5.11}Cronograma de produ\IeC {\c c}\IeC {\~a}o e oferta}{10}{section.5.11}
+\contentsline {section}{\numberline {5.12}Infraestrutura de apoio}{10}{section.5.12}
+\contentsline {subsection}{\numberline {5.12.1}Infraestrutura f\IeC {\'\i }sica}{10}{subsection.5.12.1}
+\contentsline {subsection}{\numberline {5.12.2}Infraestrutura tecnol\IeC {\'o}gica}{10}{subsection.5.12.2}
+\contentsline {subsection}{\numberline {5.12.3}Infraestrutura de gest\IeC {\~a}o}{10}{subsection.5.12.3}
+\contentsline {section}{\numberline {5.13}Equipe docente}{10}{section.5.13}
+\contentsline {section}{\numberline {5.14}Gest\IeC {\~a}o e apoio pedag\IeC {\'o}gico}{10}{section.5.14}
+\contentsline {section}{\numberline {5.15}Intera\IeC {\c c}\IeC {\~a}o e Comunica\IeC {\c c}\IeC {\~a}o}{10}{section.5.15}
+\contentsline {section}{\numberline {5.16}Recursos educacionais}{10}{section.5.16}
+\contentsline {section}{\numberline {5.17}Estrat\IeC {\'e}gias de avalia\IeC {\c c}\IeC {\~a}o}{11}{section.5.17}
