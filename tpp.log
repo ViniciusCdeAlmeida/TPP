@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.4)  20 OCT 2016 19:41
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.11)  22 OCT 2016 11:40
 entering extended mode
 **tpp.tex
-(C:\Users\ViniciusC\Desktop\TPP\tpp.tex
+(C:\Users\Vinicius\Desktop\TPP\TPP\tpp.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -40,10 +40,10 @@ Package: babel 2008/07/08 v3.8m The Babel package
 ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\babel-portuges\portuge
-s.ldf
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\portuges.ldf"
 Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
- ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2008/07/08 v3.8m Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
@@ -51,38 +51,38 @@ File: babel.def 2008/07/08 v3.8m Babel common definitions
 \l@brazil = a dialect from \language\l@portuges 
 Package babel Info: Making " an active character on input line 145.
 )
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\babel-english\english.
-ldf
-Language: english 2012/08/20 v3.3p English support from the babel system
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
-)) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\siunitx\siunitx.sty
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\expl3.sty
-Package: expl3 2016/04/20 v6476 L3 programming layer (loader) 
+("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
+Package: expl3 2016/01/19 v6377 L3 programming layer (loader) 
 
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\expl3-code.te
-x
-Package: expl3 2016/04/20 v6476 L3 programming layer (code)
-L3 Module: l3bootstrap 2016/02/12 v6412 L3 Bootstrap code
- ("C:\Program Files\MiKTeX 2.9\tex\latex\misc\etex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
+Package: expl3 2016/01/19 v6377 L3 programming layer (code)
+L3 Module: l3bootstrap 2016/01/01 v6339 L3 Bootstrap code
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\misc\etex.sty"
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
 \et@xins=\count89
 )
-L3 Module: l3names 2016/03/11 v6433 L3 Namespace for primitives
+L3 Module: l3names 2015/12/21 v6328 L3 Namespace for primitives
 L3 Module: l3basics 2015/11/22 v6315 L3 Basic definitions
 L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
-L3 Module: l3tl 2016/03/26 v6465 L3 Token lists
-L3 Module: l3str 2016/03/24 v6441 L3 Strings
+L3 Module: l3tl 2015/09/29 v6121 L3 Token lists
+L3 Module: l3str 2016/01/03 v6357 L3 Strings
 L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
-L3 Module: l3int 2016/03/24 v6441 L3 Integers
+L3 Module: l3int 2016/01/05 v6366 L3 Integers
 \c_max_int=\count90
 \l_tmpa_int=\count91
 \l_tmpb_int=\count92
@@ -92,10 +92,10 @@ L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
 L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
 \g__prg_map_int=\count95
 L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
-L3 Module: l3token 2016/04/03 v6470 L3 Experimental token manipulation
+L3 Module: l3token 2015/11/11 v6249 L3 Experimental token manipulation
 L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
-L3 Module: l3msg 2016/03/26 v6464 L3 Messages
-L3 Module: l3file 2016/03/25 v6458 L3 File and I/O operations
+L3 Module: l3msg 2015/09/28 v6113 L3 Messages
+L3 Module: l3file 2015/12/03 v6317 L3 File and I/O operations
 \l_iow_line_count_int=\count96
 \l__iow_target_count_int=\count97
 \l__iow_current_line_int=\count98
@@ -123,7 +123,7 @@ L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
 L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
 \g__keyval_level_int=\count101
 \l_keys_choice_int=\count102
-L3 Module: l3fp 2016/03/26 v6465 L3 Floating points
+L3 Module: l3fp 2015/08/25 v5890 L3 Floating points
 \c__fp_leading_shift_int=\count103
 \c__fp_middle_shift_int=\count104
 \c__fp_trailing_shift_int=\count105
@@ -139,7 +139,7 @@ L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
 \l_tmpb_box=\box28
 \g_tmpa_box=\box29
 \g_tmpb_box=\box30
-L3 Module: l3coffins 2016/03/24 v6440 L3 Coffin code layer
+L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
 \l__coffin_internal_box=\box31
 \l__coffin_internal_dim=\dimen110
 \l__coffin_offset_x_dim=\dimen111
@@ -161,7 +161,7 @@ L3 Module: l3coffins 2016/03/24 v6440 L3 Coffin code layer
 \l__coffin_display_y_dim=\dimen119
 L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
 L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
-L3 Module: l3candidates 2016/03/25 v6456 L3 Experimental additions to l3kernel
+L3 Module: l3candidates 2016/01/14 v6376 L3 Experimental additions to l3kernel
 \l__box_top_dim=\dimen120
 \l__box_bottom_dim=\dimen121
 \l__box_left_dim=\dimen122
@@ -178,23 +178,23 @@ L3 Module: l3candidates 2016/03/25 v6456 L3 Experimental additions to l3kernel
 \l__coffin_top_corner_dim=\dimen132
 \l__coffin_scaled_total_height_dim=\dimen133
 \l__coffin_scaled_width_dim=\dimen134
-L3 Module: l3luatex 2016/03/26 v6465 L3 Experimental LuaTeX-specific functions
+L3 Module: l3luatex 2015/11/11 v6250 L3 Experimental LuaTeX-specific functions
 )
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3pdfmode.def
-File: l3pdfmode.def 2016/03/26 v6465 L3 Experimental driver: PDF mode
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
+File: l3pdfmode.def 2015/11/11 v6250 L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count112
 ))
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\l3packages\xparse\xpar
-se.sty
-Package: xparse 2016/04/20 v6476 L3 Experimental document command parser
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
+Package: xparse 2016/01/19 v6377 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count113
 \l__xparse_m_args_int=\count114
 \l__xparse_mandatory_args_int=\count115
 \l__xparse_processor_int=\count116
 \l__xparse_v_nesting_int=\count117
 )
-Package: siunitx 2016/03/01 v2.6q A comprehensive (SI) units package
- ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: siunitx 2016/01/19 v2.6p A comprehensive (SI) units package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
@@ -210,9 +210,8 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \extratabsurround=\skip49
 \backup@length=\skip50
 )
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\l3packages\l3keys2e\l3
-keys2e.sty
-Package: l3keys2e 2016/04/20 v6476 LaTeX2e option processing using LaTeX3 keys
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
+Package: l3keys2e 2016/01/19 v6377 LaTeX2e option processing using LaTeX3 keys
 )
 \l__siunitx_tmp_box=\box41
 \l__siunitx_tmp_dim=\dimen138
@@ -297,102 +296,102 @@ Package: l3keys2e 2016/04/20 v6476 LaTeX2e option processing using LaTeX3 keys
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \num with sig. 'om' on line 7260.
+. Defining command \num with sig. 'om' on line 7259.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7269.
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7267.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \numrange with sig. 'omm' on line 7278.
+. Defining command \numrange with sig. 'omm' on line 7275.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7290.
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7286.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIrange with sig. 'ommm' on line 7302.
+. Defining command \SIrange with sig. 'ommm' on line 7297.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SI with sig. 'omom' on line 7314.
+. Defining command \SI with sig. 'omom' on line 7308.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \sisetup with sig. 'm' on line 7317.
+. Defining command \sisetup with sig. 'm' on line 7311.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \tablenum with sig. 'om' on line 7332.
+. Defining command \tablenum with sig. 'om' on line 7323.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \si with sig. 'om' on line 7344.
+. Defining command \si with sig. 'om' on line 7334.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_num:w with sig. 'om' on line 7391.
+. Defining command \__siunitx_bookmark_num:w with sig. 'om' on line 7381.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \__siunitx_bookmark_numrange:w with sig. 'omm' on line
-. 7393.
+. 7383.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_SI:w with sig. 'omom' on line 7395.
+. Defining command \__siunitx_bookmark_SI:w with sig. 'omom' on line 7385.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_SIlist:w with sig. 'omm' on line 7397.
+. Defining command \__siunitx_bookmark_SIlist:w with sig. 'omm' on line 7387.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \__siunitx_bookmark_SIrange:w with sig. 'ommm' on line
-. 7399.
+. 7389.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \__siunitx_bookmark_si:w with sig. 'om' on line 7400.
+. Defining command \__siunitx_bookmark_si:w with sig. 'om' on line 7390.
 .................................................
 \g__file_internal_ior=\read1
 
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\base\translator
-\translator.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\translator.sty"
 Package: translator 2010/06/12 ver 1.10
- ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\base\translator
-\translator-language-mappings.tex)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\translator-langu
+age-mappings.tex")))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip55
 \bibsep=\skip56
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count135
 )
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
@@ -438,7 +437,7 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 \Gin@req@height=\dimen150
 \Gin@req@width=\dimen151
 )
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -771,14 +770,14 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip57
 )
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\acronym\acronym.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\acronym\acronym.sty"
 Package: acronym 2015/03/21 v1.41 Support for acronyms (Tobias Oetiker)
 
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\bigfoot\suffix.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\bigfoot\suffix.sty"
 Package: suffix 2006/07/15 1.5a Variant command support
 )
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\xstring\xstring.sty
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\generic\xstring\xstring.tex
+("C:\Program Files\MiKTeX 2.9\tex\latex\xstring\xstring.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xstring\xstring.tex"
 \@xs@message=\write3
 \integerpart=\count147
 \decimalpart=\count148
@@ -786,7 +785,8 @@ Package: suffix 2006/07/15 1.5a Variant command support
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
 \AC@clearlist=\toks19
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -955,7 +955,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 ))
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
 \lst@mode=\count149
 \lst@gtempboxa=\box48
 \lst@token=\toks20
@@ -969,22 +969,23 @@ G,.JBIG2,.JB2,.eps]
 \lst@lineno=\count154
 \lst@maxwidth=\dimen159
 
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
 \c@lstnumber=\count155
 \lst@skipnumbers=\count156
 \lst@framebox=\box49
 )
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
 File: listings.cfg 2014/09/06 1.5e listings configuration
 ))
 Package: listings 2014/09/06 1.5e (Carsten Heinz)
- ("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
 \bigstrutjot=\dimen160
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 18.
 
-(C:\Users\ViniciusC\Desktop\TPP\tpp.aux)
+(C:\Users\Vinicius\Desktop\TPP\TPP\tpp.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
@@ -1007,15 +1008,14 @@ File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 24.
 
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\base\translator
-\dicts\translator-basic-dictionary\translator-basic-dictionary-English.dict
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator
+-basic-dictionary\translator-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\latex\siunitx\siunitx-abbrev
-iations.cfg
-File: siunitx-abbreviations.cfg 2016/03/01 v2.6q siunitx: Abbreviated units
+("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg"
+File: siunitx-abbreviations.cfg 2016/01/19 v2.6p siunitx: Abbreviated units
 )
-(C:\Users\ViniciusC\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count157
 \scratchdimen=\dimen161
@@ -1043,8 +1043,8 @@ LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
 
-(C:\Users\ViniciusC\Desktop\TPP\tpp.out)
-(C:\Users\ViniciusC\Desktop\TPP\tpp.out)
+(C:\Users\Vinicius\Desktop\TPP\TPP\tpp.out)
+(C:\Users\Vinicius\Desktop\TPP\TPP\tpp.out)
 \@outlinefile=\write4
 \c@lstlisting=\count164
 \c__siunitx_mathsf_int=\count165
@@ -1061,34 +1061,35 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 29.
  [1
 
-{C:/Users/ViniciusC/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (C:\Use
-rs\ViniciusC\Desktop\TPP\tpp.tocpdfTeX warning (ext4): destination with the sam
-e identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.33 ...16}Recursos educacionais}{9}{section.5.16}
-                                                   [1
-
-])
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (C:\Users\Vinicius\Deskto
+p\TPP\TPP\tpp.toc)
 \tf@toc=\write5
 
-(C:\Users\ViniciusC\Desktop\TPP\capitulos/Denominação.tex [2]
+(C:\Users\Vinicius\Desktop\TPP\TPP\capitulos/Denominação.texpdfTeX warning (e
+xt4): destination with the same identifier (name{page.1}) has been already used
+, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \chapter
+            {Denominação do Curso} [1
+
+]
 Cap\'{\i }tulo 1.
-) (C:\Users\ViniciusC\Desktop\TPP\capitulos/Equipe.tex [3
+) (C:\Users\Vinicius\Desktop\TPP\TPP\capitulos/Equipe.tex [2
 
 ]
 Cap\'{\i }tulo 2.
-) (C:\Users\ViniciusC\Desktop\TPP\capitulos/Relação.tex [4
+) (C:\Users\Vinicius\Desktop\TPP\TPP\capitulos/Relação.tex [3
 
 ]
 Cap\'{\i }tulo 3.
-) (C:\Users\ViniciusC\Desktop\TPP\capitulos/Descrição.tex [5
+) (C:\Users\Vinicius\Desktop\TPP\TPP\capitulos/Descrição.tex [4
 
 ]
 Cap\'{\i }tulo 4.
-[6
+[5
 
-] [7]) (C:\Users\ViniciusC\Desktop\TPP\capitulos/Plano.tex
+] [6] [7]) (C:\Users\Vinicius\Desktop\TPP\TPP\capitulos/Plano.tex
 Cap\'{\i }tulo 5.
 [8
 
@@ -1096,63 +1097,35 @@ Cap\'{\i }tulo 5.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
  [10] [11]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
- (C:\Users\ViniciusC\Desktop\TPP\tpp.aux)
+ (C:\Users\Vinicius\Desktop\TPP\TPP\tpp.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 37.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 37.
-
-
-Package rerunfilecheck Warning: File `tpp.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `tpp.out':
-(rerunfilecheck)             Before: C45F63263E57A57EFA44F1FBCA0B6BCE;2697
-(rerunfilecheck)             After:  B11372DFD41175B9B8965E6D79A73E25;2064.
+Package rerunfilecheck Info: File `tpp.out' has not changed.
+(rerunfilecheck)             Checksum: B11372DFD41175B9B8965E6D79A73E25;2064.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 37.
  ) 
 Here is how much of TeX's memory you used:
- 18309 strings out of 493921
- 339410 string characters out of 3147271
- 375277 words of memory out of 3000000
- 21358 multiletter control sequences out of 15000+200000
+ 18265 strings out of 493921
+ 337524 string characters out of 3147273
+ 371534 words of memory out of 3000000
+ 21323 multiletter control sequences out of 15000+200000
  18018 words of font info for 47 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 34i,6n,42p,10378b,883s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section.4.7} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.6} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.5} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.4} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.3} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.1} has been referenced but does not exist
-, replaced by a fixed one
-
- <C:\Users\ViniciusC\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
-0\ecbx1200.pk> <C:\Users\ViniciusC\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkn
-appen\ec\dpi600\ecbx1440.pk> <C:\Users\ViniciusC\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk> <C:\Users\ViniciusC\AppData\Local\Mi
-KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2074.pk> <C:\Users\ViniciusC\Ap
-pData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\User
-s\ViniciusC\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx100
-0.pk> <C:\Users\ViniciusC\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\
-dpi600\ecbx2488.pk> <C:\Users\ViniciusC\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
-r\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\ViniciusC\AppData\Local\MiKTeX\2.9\
-fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk>
-Output written on tpp.pdf (12 pages, 139904 bytes).
+ 34i,6n,42p,10378b,788s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Vinicius\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
+00\ecbx1200.pk> <C:\Users\Vinicius\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkn
+appen\ec\dpi600\ecbx1440.pk> <C:\Users\Vinicius\AppData\Local\MiKTeX\2.9\fonts\
+pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk> <C:\Users\Vinicius\AppData\Local\MiKT
+eX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2074.pk> <C:\Users\Vinicius\AppDa
+ta\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\V
+inicius\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk
+> <C:\Users\Vinicius\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
+0\ecbx2488.pk> <C:\Users\Vinicius\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
+ppen\ec\dpi600\ecrm1200.pk> <C:\Users\Vinicius\AppData\Local\MiKTeX\2.9\fonts\p
+k\ljfour\jknappen\ec\dpi600\ecrm1728.pk>
+Output written on tpp.pdf (12 pages, 140325 bytes).
 PDF statistics:
- 543 PDF objects out of 1000 (max. 8388607)
- 45 named destinations out of 1000 (max. 500000)
- 257 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 512 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
 

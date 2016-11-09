@@ -1,9 +1,9 @@
 \select@language {american}
 \select@language {brazil}
-\contentsline {chapter}{\numberline {1}Denomina\IeC {\c c}\IeC {\~a}o do Curso}{3}{chapter.1}
-\contentsline {chapter}{\numberline {2}Equipe Proponente}{4}{chapter.2}
-\contentsline {chapter}{\numberline {3}Rela\IeC {\c c}\IeC {\~a}o dos parceiros envolvidos (quando for o caso)}{5}{chapter.3}
-\contentsline {chapter}{\numberline {4}Descri\IeC {\c c}\IeC {\~a}o do contexto social e educacional}{6}{chapter.4}
+\contentsline {chapter}{\numberline {1}Denomina\IeC {\c c}\IeC {\~a}o do Curso}{2}{chapter.1}
+\contentsline {chapter}{\numberline {2}Equipe Proponente}{3}{chapter.2}
+\contentsline {chapter}{\numberline {3}Rela\IeC {\c c}\IeC {\~a}o dos parceiros envolvidos (quando for o caso)}{4}{chapter.3}
+\contentsline {chapter}{\numberline {4}Descri\IeC {\c c}\IeC {\~a}o do contexto social e educacional}{5}{chapter.4}
 \contentsline {chapter}{\numberline {5}Plano pedag\IeC {\'o}gico de curso}{8}{chapter.5}
 \contentsline {section}{\numberline {5.1}Justificativa da proposta}{8}{section.5.1}
 \contentsline {section}{\numberline {5.2}P\IeC {\'u}blico-alvo do curso}{8}{section.5.2}
